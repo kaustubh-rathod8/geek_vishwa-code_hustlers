@@ -18,9 +18,9 @@ function Services() {
             />
             <div className="card-body">
               <h5 className="card-title">Career Guidance</h5>
-              <p className="card-text">
+              {/* <p className="card-text">
                 This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-              </p>
+              </p> */}
             </div>
           </div>
           <div className="card" style={cardStyle}>
@@ -31,7 +31,7 @@ function Services() {
             />
             <div className="card-body">
               <h5 className="card-title">Lessons</h5>
-              <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+              {/* <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p> */}
             </div>
           </div>
           <div className="card" style={cardStyle}>
@@ -42,9 +42,9 @@ function Services() {
             />
             <div className="card-body">
               <h5 className="card-title">Games</h5>
-              <p className="card-text">
+              {/* <p className="card-text">
                 This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
